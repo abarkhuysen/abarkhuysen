@@ -116,4 +116,5 @@ I'm always interested in collaborating on innovative projects and helping busine
 
 ---
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abarkhuysen&layout=compact&theme=default)
 
