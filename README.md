@@ -62,27 +62,27 @@ I'm a passionate full-stack developer specializing in building robust web applic
 - Queue management system
 - Bootstrap 5 responsive design
 
-**Post Matric Education Portal** - Laravel 10 + Filament 3
+**[Post Matric Education Portal](https://postmatric.co.za)** - Laravel 10 + Filament 3
 - Modern educational resource platform
 - Filament admin panel
 - Livewire dynamic components
 - Spatie package integrations
 
 ### 🔧 **Enterprise Applications**
-**Premium Solar Quotation System** - CakePHP 2.x
+**[Premium Solar Quotation System](https://premiumsolar.co.za)** - CakePHP 2.x
 - Legacy system modernization for PHP 8
 - TCPDF integration for quotations
 - Excel data processing
 - Complex pricing calculations
 
-**Tender Alerts Platform** - CakePHP 4.4
+**[Tender Alerts Platform](https://tenderalerts.co.za)** - CakePHP 4.4
 - Government tender notification system
 - MeiliSearch integration for fast searching
 - PayFast payment processing
 - Automated alert system
 
 ### 🛒 **E-commerce Solutions**
-**Digga Store** - WordPress + WooCommerce
+**[Digga Store](https://digga.co.za/shop)** - WordPress + WooCommerce
 - Industrial equipment e-commerce platform
 - PayFast payment gateway integration
 - Custom WordPress development
@@ -113,4 +113,7 @@ I'm always interested in collaborating on innovative projects and helping busine
 ---
 
 ⚡ **Fun fact**: I believe in writing clean, maintainable code that not only works today but scales for tomorrow's challenges!
+
+---
+
 
